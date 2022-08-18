@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrarySimulatorCofeeMachine.ConcreteCappuccino150Factory1">
+    <Position X="4.25" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAEAAAAAAIAAACAAAAAABAAAAA=</HashCode>
+      <FileName>CappuccinoFactoriesClasses\СlassConcreteCappuccino150Factory1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrarySimulatorCofeeMachine.ConcreteCappuccino300Factory2">
+    <Position X="1" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAEAAAAAAIAAACAAAAAABAAAAA=</HashCode>
+      <FileName>CappuccinoFactoriesClasses\СlassConcreteCappuccino300Factory2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.221" />
+  </Class>
+  <Interface Name="ClassLibrarySimulatorCofeeMachine.IAbstractProduktFactory">
+    <Position X="1" Y="0.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAEAAAAAAIAAACAAAAAABAAAAA=</HashCode>
+      <FileName>InterfacesAbstractProdukts\InterfaceAbstractProduktFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
